@@ -2,8 +2,8 @@
 
 ## Parties
 
-This Agreement is made between **_____________** (hereinafter "Client")
-with a principal place of business at ___________ and
+This Agreement is made between **__________________** (hereinafter "Client")
+with a principal place of business at ________________ and
 **Viper Development c/o Lasse Schuirmann**, Haakestrasse 37, 21075 Hamburg
 (hereinafter "Service Provider").
 
