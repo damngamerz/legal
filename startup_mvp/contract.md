@@ -117,7 +117,7 @@ costs, and expenses will not exceed the compensation received by the Service
 Provider under this Agreement.
 
 However, Service Provider will remain liable for bodily injury or personal
-property damage resulting from grossly negligent or willful actions of
+property damage resulting from grossly negligent or wilful actions of
 Service Provider.
 
 NEITHER PARTY TO THIS AGREEMENT WILL BE LIABLE FOR THE OTHER'S LOST
@@ -135,7 +135,7 @@ invalid or unenforceable in whole or in part.
 ## Governing Law
 
 This Agreement will be governed by and construed in accordance with the laws of
-the Germany.
+Germany.
 
 ## Partnership
 
