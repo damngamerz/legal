@@ -80,7 +80,7 @@ The Service Provider will submit invoices for the services rendered. The Client
 will pay the Service Provider within 14 days after receipt of each invoice.
 
 If no payment arrives on the 16th day after receipt of the invoice at 11am CET,
-a late payment fee of 1% will be added to the amount. It will be readded every
+a late payment fee of 5% will be added to the amount. It will be readded every
 16 days if the full amount is not covered.
 
 Invoices can be submitted either in two parts, Eur 300 after completion of the
