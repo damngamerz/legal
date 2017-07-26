@@ -4,7 +4,7 @@
 
 This Agreement is made between **__________________** (hereinafter "Client")
 with a principal place of business at ________________ and
-**Viper Development c/o Lasse Schuirmann**, Haakestrasse 37, 21075 Hamburg
+**Viper Development UG (haftungsbeschränkt)**, Haakestrasse 37, 21075 Hamburg
 (hereinafter "Service Provider").
 
 ## Services to be Performed
