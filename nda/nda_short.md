@@ -86,7 +86,7 @@ delivered by email in PDF format shall be effective.
 
 MY SIGNATURE BELOW INDICATES THAT I HAVE READ AND UNDERSTOOD THIS AGREEMENT.
 
-### Client:
+### Disclosing Party:
 
 Date, Signature:
 
@@ -94,7 +94,7 @@ Name:
 
 Company details:
 
-### Service Provider:
+### Receiving Party:
 
 Date, Signature:
 
